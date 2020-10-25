@@ -1,6 +1,8 @@
 # Kuchařka
 Repozitář pro volitelný domácí úkol do předmětu GIT 2
 
+Účelem tohoto úkolu je společnými silami sepsat malou kuchařku s oblíbenými recepty.
+
 ## Zadání
 1. Vyberte si svůj oblíbený recept, o který se chcete s ostatními podělit.
 2. Vytvořte si ve svém lokálním repozitáři novou větev. Ta se bude jmenovat branch-uzivatelskeJmeno kde doplníte svoje uživatelské jméno.
