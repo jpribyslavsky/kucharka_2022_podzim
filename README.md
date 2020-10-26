@@ -1,7 +1,7 @@
 # Kuchařka
 Repozitář pro volitelný domácí úkol do předmětu GIT 2
 
-Účelem tohoto úkolu je společnými silami sepsat malou kuchařku s oblíbenými recepty.
+Účelem tohoto úkolu je společnými silami sepsat malou kuchařku s oblíbenými recepty. Při této činnosti si procvičíme vytváření větví, jejich slučování a řešení konfliktů při slučování.
 
 Kuchařku píšeme do souboru recepty.md
 
