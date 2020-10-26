@@ -5,7 +5,7 @@ Repozitář pro volitelný domácí úkol do předmětu GIT 2
 
 Kuchařku píšeme do souboru recepty.md
 
-První recept je ode mě a můžete ho použít jako vzor.
+První recept je ode mě a můžete jej použít jako vzor.
 
 ## Zadání
 1. Vyberte si svůj oblíbený recept, o který se chcete s ostatními podělit.
