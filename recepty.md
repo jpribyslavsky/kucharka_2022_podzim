@@ -42,4 +42,4 @@ _Autor: Jan Přibyslavský_
 6. Natřete ji na plátky toustového chleba, pěkně pečlivě až do krajů. Ty pak vyskládejte na plech vyložený papírem na pečení, vložte do vyhřáté trouby a pečte 10-15 minut, až pomazánka trochu zezlátne a sýr se rozpustí.
 
 Podávejte okamžitě, šance na to, že tuhle manu ubráníte před okolím, jsou stejně velmi mizivé. :-) P.S. Vynikající je i alternativa, kdy se použije místo mrkve syrová červená řepa a místo česneku vlašské ořechy. 
-_Autorka: Jana Zíková (+její milovaná Kuchařka pro dceru)_
+_Autorka: Jana Zíková (+ její milovaná Kuchařka pro dceru)_
