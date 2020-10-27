@@ -65,6 +65,8 @@ _Autorka: Jana Zíková (+ její milovaná Kuchařka pro dceru)_
 Můj oblíbený jednoduchý dort od Florentýny (https://www.kucharkaprodceru.cz/ - jak vidím po git pullu, stejně jako Janča :D) :)  
 _Autor: Alexandra Jelínková_
 
+---
+
 ## Celerový salát
 
 ### Suroviny
@@ -83,3 +85,25 @@ _Autor: Alexandra Jelínková_
 
 Přeji dobrou chuť.  
 _Autor: Hana Kudličková_
+
+---
+
+## Tvarohovo-krupicový koláč  
+
+### Suroviny  
+
+* 1 měkký tvaroh v alobalu
+* 1 tvaroh ve vaničce
+* 2 vejce
+* 70g moučkového cukru
+* 80g dětské krupičky + na vysypání formy
+* 80g másla + na vymazání formy
+* 100ml mléka
+* 1 balíček vanilkového pudinku
+* 1 vanilkový cukr
+* meruňky či jiné ovoce
+
+### Postup přípravy  
+
+Do mísy dejte oba tvarohy, přidejte vajce a mléko a dobře rozmíchejte. Poté přidejte moučkový i vanilkový cukr, rozpuštěné máslo, dětskou krupičku a balíček vanilkového pudinku (ten nevařte, zkrátka jen nasypejte prášek). Dortovou formu (cca 24 cm) dobře vymažte máslem a vysypejte krupičkou. Poté nalijte tvarohové těsto a na závěr nahoru vyskládejte ovoce. Pečte v horkovzdušné troubě předehřáté na 150°C přibližně půl hodiny, a poté ještě dalších cca 15 minut na 180°C, dokud nebude povrch zlatavý.
+_Autorka: Nikol K.(od mamavkuchyni.cz :-) )_  
