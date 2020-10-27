@@ -64,3 +64,22 @@ _Autorka: Jana Zíková (+ její milovaná Kuchařka pro dceru)_
 
 Můj oblíbený jednoduchý dort od Florentýny (https://www.kucharkaprodceru.cz/ - jak vidím po git pullu, stejně jako Janča :D) :)  
 _Autor: Alexandra Jelínková_
+
+## Celerový salát
+
+### Suroviny
+
+* sklenička strouhaného celeru
+* 1 pórek
+* malá konzerva kukuřice
+* konzerva ananasu
+* 100g strouhaného tvrdého sýru
+* malá sklenička majonézy
+
+### Postup přípravy
+1. Do mísy vrstvíme nakrájený pórek, strouhaný sýr, kukuřici, ananas, strouhaný celer i s nálevem a nakonec majonézu.
+2. Necháme přes noc uležet.
+3. Druhý den vše promícháme a podáváme na opečeném chlebu, bagetě nebo i samotné.
+
+Přeji dobrou chuť.  
+_Autor: Hana Kudličková, respektive převzato od Martina Veverky_
