@@ -82,4 +82,4 @@ _Autor: Alexandra Jelínková_
 3. Druhý den vše promícháme a podáváme na opečeném chlebu, bagetě nebo i samotné.
 
 Přeji dobrou chuť.  
-_Autor: Hana Kudličková, respektive převzato od Martina Veverky_
+_Autor: Hana Kudličková_
