@@ -67,6 +67,27 @@ _Autor: Alexandra Jelínková_
 
 ---
 
+## Celerový salát
+
+### Suroviny
+
+* sklenička strouhaného celeru
+* 1 pórek
+* malá konzerva kukuřice
+* konzerva ananasu
+* 100g strouhaného tvrdého sýru
+* malá sklenička majonézy
+
+### Postup přípravy
+1. Do mísy vrstvíme nakrájený pórek, strouhaný sýr, kukuřici, ananas, strouhaný celer i s nálevem a nakonec majonézu.
+2. Necháme přes noc uležet.
+3. Druhý den vše promícháme a podáváme na opečeném chlebu, bagetě nebo i samotné.
+
+Přeji dobrou chuť.  
+_Autor: Hana Kudličková_
+
+---
+
 ## Tvarohovo-krupicový koláč  
 
 ### Suroviny  
@@ -86,4 +107,3 @@ _Autor: Alexandra Jelínková_
 
 Do mísy dejte oba tvarohy, přidejte vajce a mléko a dobře rozmíchejte. Poté přidejte moučkový i vanilkový cukr, rozpuštěné máslo, dětskou krupičku a balíček vanilkového pudinku (ten nevařte, zkrátka jen nasypejte prášek). Dortovou formu (cca 24 cm) dobře vymažte máslem a vysypejte krupičkou. Poté nalijte tvarohové těsto a na závěr nahoru vyskládejte ovoce. Pečte v horkovzdušné troubě předehřáté na 150°C přibližně půl hodiny, a poté ještě dalších cca 15 minut na 180°C, dokud nebude povrch zlatavý.
 _Autorka: Nikol K.(od mamavkuchyni.cz :-) )_  
-
