@@ -125,3 +125,34 @@ Vždycky dělám tak 1 a půl dávky na velikost normální dortové formy (26 c
 _Autor: Kateřina Rajmanová_
 
 ---
+
+##Sacher dort
+
+###Suroviny
+
+Těsto
+* 150 g másla
+* 150 g hořké čokolády
+* 6 vajec (2 celá vejce + 4 žloutky + 4 bílky)
+* 150 g jemného třtinového cukru
+* 150 g hladké mouky
+* 20 g kakaa
+* 1 lžička prášku do pečiva
+* trocha vanilky
+
+Poleva
+* 200 g hořké čokolády 70 %
+* 200 g smetany ke šlehání
+
+na dokončení: sklenice dobré meruňkové zavařeniny (asi 340 g)
+
+###Postup přípravy
+
+Čokoládu a máslo rozpustím ve vodní lázni a nechám zchladnout, aby byla směs sice tekutá, nikoli však horká. Je ostatně lepší, když pak do vyšlehaných vajec naliji spíše hustší a krémovější hmotu, než vyloženě řídkou tekutinu.
+Celá vejce, žloutky a polovinu cukru poctivě vyšlehám do husté pěny, alespoň 15 minut. Přidám vanilku.
+Z bílků a druhé poloviny cukru ušlehám sníh. Mouku dobře smíchám s kakaem a práškem do pečiva.
+Do vaječné pěny vmíchám gumovou stěrkou zchladlou čokoládovou hmotu, pak prosátou mouku s kakaem a nakonec i (opatrně) sníh z bílků.
+Vzniklé těsto naliji do dortové formy vyložené pečicím papírem (na dno rozkládací formy položím papír a připnu postranici). Peču v troubě předehřáté na 170°C asi 40 minut. Nechám vychladnout.
+Boky dortu nožem odříznu od formy a vyndám dort na podložku. Seříznu vyboulený vršek, aby byl dort rovný. Rozříznu dort na tři pláty, každý pomažu meruňkovou marmeládou a znovu je složím na sebe. Tenkou vrstvou marmelády pomažu i celý dort zvnějšku – bublinky a drobky na povrchu se tím krásně zahladí.
+Smetanu přivedu k varu, přeliji s ní čokoládové pecky (nebo čokoládu nalámanou na kousky) a vymíchám do hladka. Celý dort čokoládou poliji a nešetřím. Nechám zatuhnout.
+_Autor: Jana Novotná (z webu kousekdortu.cz)
