@@ -107,3 +107,21 @@ _Autor: Hana Kudličková_
 
 Do mísy dejte oba tvarohy, přidejte vajce a mléko a dobře rozmíchejte. Poté přidejte moučkový i vanilkový cukr, rozpuštěné máslo, dětskou krupičku a balíček vanilkového pudinku (ten nevařte, zkrátka jen nasypejte prášek). Dortovou formu (cca 24 cm) dobře vymažte máslem a vysypejte krupičkou. Poté nalijte tvarohové těsto a na závěr nahoru vyskládejte ovoce. Pečte v horkovzdušné troubě předehřáté na 150°C přibližně půl hodiny, a poté ještě dalších cca 15 minut na 180°C, dokud nebude povrch zlatavý.
 _Autorka: Nikol K.(od mamavkuchyni.cz :-) )_  
+
+## Potahová hmota na dorty
+
+### Suroviny
+
+* 150g cukr moučka
+* 150g polotučné sušené mléko
+* 2 lžíce oleje
+* 2 lžíce medu
+* 3 lžíce vody
+* Mandlové aroma
+
+### Postup přípravy
+Všechno jen vypracujete do hmoty, podle potřeby přidáte další cukr.
+Vždycky dělám tak 1 a půl dávky na velikost normální dortové formy (26 cm). Záleží podle velikosti, ale raději víc než míň :-)
+_Autor: Kateřina Rajmanová_
+
+---
