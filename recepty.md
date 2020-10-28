@@ -1,201 +1,205 @@
-# GIT kuchaøka kurzu DA testování
+# GIT kuchaÅ™ka kurzu DA testovÃ¡nÃ­
 
-## Tatarák z olomouckıch tvarùkù
+## TatarÃ¡k z olomouckÃ½ch tvarÅ¯Å¾kÅ¯
 
 ### Suroviny
 
-* 200 g olomouckıch tvarùkù
-* 1 vìtší cibule
-* 100 g másla
-* 1 lièka hoøèice
-* 1 strouek èesneku
-* 1 lièka sladké papriky
-* 1 lièka chilli (nemusí bıt)
-* 2 syrové loutky
+* 200 g olomouckÃ½ch tvarÅ¯Å¾kÅ¯
+* 1 vÄ›tÅ¡Ã­ cibule
+* 100 g mÃ¡sla
+* 1 lÅ¾iÄka hoÅ™Äice
+* 1 strouÅ¾ek Äesneku
+* 1 lÅ¾iÄka sladkÃ© papriky
+* 1 lÅ¾iÄka chilli (nemusÃ­ bÃ½t)
+* 2 syrovÃ© Å¾loutky
 
-### Postup pøípravy
+### Postup pÅ™Ã­pravy
 
-1. Máslo utøeme s nastrouhanımi tvarùky do pìny.
-2. Pøidáme nadrobno nakrájenou cibuli, papriku, hoøèici, èili a natøenı èesnek a loutky.
-3. Vše promícháme a podáváme na opeèeném, oèesnekovaném chlebu s dobøe vychlazenım pivem.
+1. MÃ¡slo utÅ™eme s nastrouhanÃ½mi tvarÅ¯Å¾ky do pÄ›ny.
+2. PÅ™idÃ¡me nadrobno nakrÃ¡jenou cibuli, papriku, hoÅ™Äici, Äili a natÅ™enÃ½ Äesnek a Å¾loutky.
+3. VÅ¡e promÃ­chÃ¡me a podÃ¡vÃ¡me na opeÄenÃ©m, oÄesnekovanÃ©m chlebu s dobÅ™e vychlazenÃ½m pivem.
 
-Pøeji dobrou chu. Konzumaci nedoporuèuji pøed dùleitou schùzkou, pokud tedy není online :-) 
+PÅ™eji dobrou chuÅ¥. Konzumaci nedoporuÄuji pÅ™ed dÅ¯leÅ¾itou schÅ¯zkou, pokud tedy nenÃ­ online :-) 
  
-_Autor: Jan Pøibyslavskı_
+_Autor: Jan PÅ™ibyslavskÃ½_
 
 ---
 
-## Zapeèená pomázanka s mrkví
+## ZapeÄenÃ¡ pomÃ¡zanka s mrkvÃ­
 
 ### Suroviny
 
-12 plátkù bílého toustového chleba
-2 mrkve (200 g v neoèištìném stavu, 150 g po oèištìní)
-150 g vašeho oblíbeného tvrdého sıra
-150 g majonézy
-1-2 strouky èesneku
+* 12 plÃ¡tkÅ¯ bÃ­lÃ©ho toustovÃ©ho chleba
+* 2 mrkve (200 g v neoÄiÅ¡tÄ›nÃ©m stavu, 150 g po oÄiÅ¡tÄ›nÃ­)
+* 150 g vaÅ¡eho oblÃ­benÃ©ho tvrdÃ©ho sÃ½ra
+* 150 g majonÃ©zy
+* 1-2 strouÅ¾ky Äesneku
 
-### Postup pøípravy
+### Postup pÅ™Ã­pravy
 
-Zaènìte pøedehøívat troubu na 180 stupòù.
-Mrkve oloupejte, oèistìte a nastrouhejte na jemném struhadle. (Ano, pomìr všeho tedy je 1:1:1, to se hodí vììt pro pøíštì, a budete mnoství minimálnì zdvojovat :D )
-Èesnek oloupejte a prolisujte.
-Sır nastrouhejte najemno.
-V míse smíchejte mrkev, èesnek, sır a majonézu, mìla by vám vzniknout velmi pøíjemná pomazánka. Klidnì ji mùete pouít tak, jak je, natøít na bílé peèivo a hned podávat. My ji ale ještì o level pozvedneme!
-Natøete ji na plátky toustového chleba, pìknì peèlivì a do krajù. Ty pak vyskládejte na plech vyloenı papírem na peèení, vlote do vyhøáté trouby a peète 10-15 minut, a pomazánka trochu zezlátne a sır se rozpustí.
-Podávejte okamitì, šance na to, e tuhle manu ubráníte pøed okolím, jsou stejnì velmi mizivé. :-) P.S. Vynikající je i alternativa, kdy se pouije místo mrkve syrová èervená øepa a místo èesneku vlašské oøechy. 
+1. ZaÄnÄ›te pÅ™edehÅ™Ã­vat troubu na 180 stupÅˆÅ¯.
+2. Mrkve oloupejte, oÄistÄ›te a nastrouhejte na jemnÃ©m struhadle. (Ano, pomÄ›r vÅ¡eho tedy je 1:1:1, to se hodÃ­ vÄ›Ä›t pro pÅ™Ã­Å¡tÄ›, aÅ¾ budete mnoÅ¾stvÃ­ minimÃ¡lnÄ› zdvojovat :D )
+3. ÄŒesnek oloupejte a prolisujte.
+4. SÃ½r nastrouhejte najemno.
+5. V mÃ­se smÃ­chejte mrkev, Äesnek, sÃ½r a majonÃ©zu, mÄ›la by vÃ¡m vzniknout velmi pÅ™Ã­jemnÃ¡ pomazÃ¡nka. KlidnÄ› ji mÅ¯Å¾ete pouÅ¾Ã­t tak, jak je, natÅ™Ã­t na bÃ­lÃ© peÄivo a hned podÃ¡vat. My ji ale jeÅ¡tÄ› o level pozvedneme!
+6. NatÅ™ete ji na plÃ¡tky toustovÃ©ho chleba, pÄ›knÄ› peÄlivÄ› aÅ¾ do krajÅ¯. Ty pak vysklÃ¡dejte na plech vyloÅ¾enÃ½ papÃ­rem na peÄenÃ­, vloÅ¾te do vyhÅ™Ã¡tÃ© trouby a peÄte 10-15 minut, aÅ¾ pomazÃ¡nka trochu zezlÃ¡tne a sÃ½r se rozpustÃ­.
+7. PodÃ¡vejte okamÅ¾itÄ›, Å¡ance na to, Å¾e tuhle manu ubrÃ¡nÃ­te pÅ™ed okolÃ­m, jsou stejnÄ› velmi mizivÃ©. :-) P.S. VynikajÃ­cÃ­ je i alternativa, kdy se pouÅ¾ije mÃ­sto mrkve syrovÃ¡ ÄervenÃ¡ Å™epa a mÃ­sto Äesneku vlaÅ¡skÃ© oÅ™echy. 
 
-_Autorka: Jana Zíková_ (+ její milovaná Kuchaøka pro dceru)
+_Autorka: Jana ZÃ­kovÃ¡_ (+ jejÃ­ milovanÃ¡ KuchaÅ™ka pro dceru)
 
 ---
 
-## Nepeèenı jahodovı dort
+## NepeÄenÃ½ jahodovÃ½ dort
 
 ### Suroviny
 
-2 kelímky dobré zakysané smetany
-1 kelímek smetany ke šlehání
-1-2 líce cukru mouèka, pøípadnì víc podle chuti jahod
-1 velkı balíèek kulatıch dìtskıch piškotù (240 g)
-800-1000 g èerstvıch, mìkkıch a plnì vyzrálıch jahod
+* 2 kelÃ­mky dobrÃ© zakysanÃ© smetany
+* 1 kelÃ­mek smetany ke Å¡lehÃ¡nÃ­
+* 1-2 lÅ¾Ã­ce cukru mouÄka, pÅ™Ã­padnÄ› vÃ­c podle chuti jahod
+* 1 velkÃ½ balÃ­Äek kulatÃ½ch dÄ›tskÃ½ch piÅ¡kotÅ¯ (240 g)
+* 800-1000 g ÄerstvÃ½ch, mÄ›kkÃ½ch a plnÄ› vyzrÃ¡lÃ½ch jahod
 
-###Postup pøípravy
+###Postup pÅ™Ã­pravy
 
-Mísu vylote potravinovou fólií. Jahody oèistìte a nakrájejte na plátky nebo na ètvrtky.
-Šlehaèku vyšlehejte do polotuha a oslaïte cukrem. Potom ji metlièkou smíchejte se zakysanou smetanou.
-Do pøipravené mísy naskládejte vrstvu dìtskıch piškotù, spodní stranou smìrem k míse. Pøekryjte trochou smetanového krému a kousky èerstvıch jahod. Takto pokraèujte dál - vrstvìte piškoty, krém a jahody, a spotøebujete všechny suroviny. Skonèit byste mìli piškoty nebo krémem, ale ne jahodami.
-Uhlaïte povrch a nechte dùkladnì zatuhnout v lednici do druhého dne.
-Mùj oblíbenı jednoduchı dort od Florentıny (https://www.kucharkaprodceru.cz/ - jak vidím po git pullu, stejnì jako Janèa :D) :)
+1. MÃ­su vyloÅ¾te potravinovou fÃ³liÃ­. Jahody oÄistÄ›te a nakrÃ¡jejte na plÃ¡tky nebo na Ätvrtky.
+2. Å lehaÄku vyÅ¡lehejte do polotuha a oslaÄte cukrem. Potom ji metliÄkou smÃ­chejte se zakysanou smetanou.
+3. Do pÅ™ipravenÃ© mÃ­sy nasklÃ¡dejte vrstvu dÄ›tskÃ½ch piÅ¡kotÅ¯, spodnÃ­ stranou smÄ›rem k mÃ­se. PÅ™ekryjte trochou smetanovÃ©ho krÃ©mu a kousky ÄerstvÃ½ch jahod. Takto pokraÄujte dÃ¡l - vrstvÄ›te piÅ¡koty, krÃ©m a jahody, aÅ¾ spotÅ™ebujete vÅ¡echny suroviny. SkonÄit byste mÄ›li piÅ¡koty nebo krÃ©mem, ale ne jahodami.
+4. UhlaÄte povrch a nechte dÅ¯kladnÄ› zatuhnout v lednici do druhÃ©ho dne.
+5. MÅ¯j oblÃ­benÃ½ jednoduchÃ½ dort od FlorentÃ½ny (https://www.kucharkaprodceru.cz/ - jak vidÃ­m po git pullu, stejnÄ› jako JanÄa :D) :)
 
-_Autor: Alexandra Jelínková_
+_Autor: Alexandra JelÃ­nkovÃ¡_
 
 ---
 
-## Celerovı salát
+## CelerovÃ½ salÃ¡t
 
 ### Suroviny
 
-sklenièka strouhaného celeru
-1 pórek
-malá konzerva kukuøice
-konzerva ananasu
-100g strouhaného tvrdého sıru
-malá sklenièka majonézy
+* skleniÄka strouhanÃ©ho celeru
+* 1 pÃ³rek
+* malÃ¡ konzerva kukuÅ™ice
+* konzerva ananasu
+* 100g strouhanÃ©ho tvrdÃ©ho sÃ½ru
+* malÃ¡ skleniÄka majonÃ©zy
 
-### Postup pøípravy
+### Postup pÅ™Ã­pravy
 
-Do mísy vrstvíme nakrájenı pórek, strouhanı sır, kukuøici, ananas, strouhanı celer i s nálevem a nakonec majonézu.
-Necháme pøes noc uleet.
-Druhı den vše promícháme a podáváme na opeèeném chlebu, bagetì nebo i samotné.
-Pøeji dobrou chu.
+1. Do mÃ­sy vrstvÃ­me nakrÃ¡jenÃ½ pÃ³rek, strouhanÃ½ sÃ½r, kukuÅ™ici, ananas, strouhanÃ½ celer i s nÃ¡levem a nakonec majonÃ©zu.
+2. NechÃ¡me pÅ™es noc uleÅ¾et.
+3. DruhÃ½ den vÅ¡e promÃ­chÃ¡me a podÃ¡vÃ¡me na opeÄenÃ©m chlebu, bagetÄ› nebo i samotnÃ©.
+PÅ™eji dobrou chuÅ¥.
 
-_Autor: Hana Kudlièková_
+_Autor: Hana KudliÄkovÃ¡_
 
 ---
 
-## Tvarohovo-krupicovı koláè
+## Tvarohovo-krupicovÃ½ kolÃ¡Ä
 
 ### Suroviny
 
-1 mìkkı tvaroh v alobalu
-1 tvaroh ve vanièce
-2 vejce
-70g mouèkového cukru
-80g dìtské krupièky + na vysypání formy
-80g másla + na vymazání formy
-100ml mléka
-1 balíèek vanilkového pudinku
-1 vanilkovı cukr
-meruòky èi jiné ovoce
+* 1 mÄ›kkÃ½ tvaroh v alobalu
+* 1 tvaroh ve vaniÄce
+* 2 vejce
+* 70g mouÄkovÃ©ho cukru
+* 80g dÄ›tskÃ© krupiÄky + na vysypÃ¡nÃ­ formy
+* 80g mÃ¡sla + na vymazÃ¡nÃ­ formy
+* 100ml mlÃ©ka
+* 1 balÃ­Äek vanilkovÃ©ho pudinku
+* 1 vanilkovÃ½ cukr
+* meruÅˆky Äi jinÃ© ovoce
 
-### Postup pøípravy
+### Postup pÅ™Ã­pravy
 
-Do mísy dejte oba tvarohy, pøidejte vajce a mléko a dobøe rozmíchejte. Poté pøidejte mouèkovı i vanilkovı cukr, rozpuštìné máslo, dìtskou krupièku a balíèek vanilkového pudinku (ten nevaøte, zkrátka jen nasypejte prášek). Dortovou formu (cca 24 cm) dobøe vymate máslem a vysypejte krupièkou. Poté nalijte tvarohové tìsto a na závìr nahoru vyskládejte ovoce. Peète v horkovzdušné troubì pøedehøáté na 150°C pøiblinì pùl hodiny, a poté ještì dalších cca 15 minut na 180°C, dokud nebude povrch zlatavı. 
+1. Do mÃ­sy dejte oba tvarohy, pÅ™idejte vajce a mlÃ©ko a dobÅ™e rozmÃ­chejte. 
+2. PotÃ© pÅ™idejte mouÄkovÃ½ i vanilkovÃ½ cukr, rozpuÅ¡tÄ›nÃ© mÃ¡slo, dÄ›tskou krupiÄku a balÃ­Äek vanilkovÃ©ho pudinku (ten nevaÅ™te, zkrÃ¡tka jen nasypejte prÃ¡Å¡ek). 
+3. Dortovou formu (cca 24 cm) dobÅ™e vymaÅ¾te mÃ¡slem a vysypejte krupiÄkou. 
+4. PotÃ© nalijte tvarohovÃ© tÄ›sto a na zÃ¡vÄ›r nahoru vysklÃ¡dejte ovoce. 
+5. PeÄte v horkovzduÅ¡nÃ© troubÄ› pÅ™edehÅ™Ã¡tÃ© na 150Â°C pÅ™ibliÅ¾nÄ› pÅ¯l hodiny, a potÃ© jeÅ¡tÄ› dalÅ¡Ã­ch cca 15 minut na 180Â°C, dokud nebude povrch zlatavÃ½. 
 
 _Autorka: Nikol K._(od mamavkuchyni.cz :-) )
 
 ---
 
-## Potahová hmota na dorty
+## PotahovÃ¡ hmota na dorty
 
 ### Suroviny
 
-* 150g cukr mouèka
-* 150g polotuèného sušeného mléka
-* 2 líce oleje
-* 2 lí­ce medu
-* 3 lí­ce vody
-* Mandlové aroma
+* 150g cukr mouÄka
+* 150g polotuÄnÃ©ho suÅ¡enÃ©ho mlÃ©ka
+* 2 lÅ¾Ã­ce oleje
+* 2 lÅ¾Ã­ce medu
+* 3 lÅ¾Ã­ce vody
+* MandlovÃ© aroma
 
-### Postup pøí­pravy
+### Postup pÅ™Ã­pravy
 
-Všechno jen vypracujete do hmoty, podle potøeby pøidáte další cukr.
-Vdycky dìlám tak 1 a pùl dávky na velikost normální dortové formy (26 cm). Záleí podle velikosti, ale radìji ví­c ne míò :-)
+VÅ¡echno jen vypracujete do hmoty, podle potÅ™eby pÅ™idÃ¡te dalÅ¡Ã­ cukr.  
+VÅ¾dycky dÄ›lÃ¡m tak 1 a pÅ¯l dÃ¡vky na velikost normÃ¡lnÃ­ dortovÃ© formy (26 cm). ZÃ¡leÅ¾Ã­ podle velikosti, ale radÄ›ji vÃ­Â­c neÅ¾ mÃ­Åˆ :-)
 
-_Autor: Kateøina Rajmanová_
+_Autor: KateÅ™ina RajmanovÃ¡_
 
 ---
 
-## Biskupskı chlebíèek z pomazánkového másla
+## BiskupskÃ½ chlebÃ­Äek z pomazÃ¡nkovÃ©ho mÃ¡sla
 
 ### Suroviny
 
-* 200 g polohrubé mouky
+* 200 g polohrubÃ© mouky
 * 200 g cukru
-* 200 g pomazánkového másla 
+* 200 g pomazÃ¡nkovÃ©ho mÃ¡sla 
 * 2 vejce
-* 3/4 prášku do peèiva
-* rozinky, mandle, kandované ovoce, oøíšky
-* èokoláda, nebo èokoládová poleva
+* 3/4 prÃ¡Å¡ku do peÄiva
+* rozinky, mandle, kandovanÃ© ovoce, oÅ™Ã­Å¡ky
+* ÄokolÃ¡da, nebo ÄokolÃ¡dovÃ¡ poleva
 
 
-### Postup pøípravy
+### Postup pÅ™Ã­pravy
 
-1. Smícháme zvláš mokré a zvláš suché suroviny.
-2. Poté smícháme oboje dohromady a umícháme hladké tìsto.
-3. Nalejeme do vysypané formy na biskupskı chlebíèek.
-4. Peèeme na 175°C cca 30 minut. Vyzkošíme špejlí, jestli je tìsto propeèené.
-5. Necháme vychladnout a polejeme èokoládou
+1. SmÃ­chÃ¡me zvlÃ¡Å¡Å¥ mokrÃ© a zvlÃ¡Å¡Å¥ suchÃ© suroviny.
+2. PotÃ© smÃ­chÃ¡me oboje dohromady a umÃ­chÃ¡me hladkÃ© tÄ›sto.
+3. Nalejeme do vysypanÃ© formy na biskupskÃ½ chlebÃ­Äek.
+4. PeÄeme na 175Â°C cca 30 minut. VyzkoÅ¡Ã­me Å¡pejlÃ­, jestli je tÄ›sto propeÄenÃ©.
+5. NechÃ¡me vychladnout a polejeme ÄokolÃ¡dou
  
-_Autor: Jana Novotná_
+_Autor: Jana NovotnÃ¡_
 
 
 ---
 
-##  Salát z klíèù s trhanım krùtím masem
+##  SalÃ¡t z klÃ­ÄÅ¯ s trhanÃ½m krÅ¯tÃ­m masem
 
 ###  Suroviny
 
-* 3 vykoštìná krùtí stehna
-* 2 hrsti sušenıch rajèat
-* 1 zakysaná smetana
-* 1 PL extra panenského olivového oleje
-* líce hoøèice
-* èesnek
-* hrst klíèkù z èerné èoèky
-* hrst hrachovıch klíèkù nebo munga
-* hrst klíèkù sluneènice
-* hrst klíèkù pšenice
-* hrst pohankovıch klíèkù
+* 3 vykoÅ¡tÄ›nÃ¡ krÅ¯tÃ­ stehna
+* 2 hrsti suÅ¡enÃ½ch rajÄat
+* 1 zakysanÃ¡ smetana
+* 1 PL extra panenskÃ©ho olivovÃ©ho oleje
+* lÅ¾Ã­ce hoÅ™Äice
+* Äesnek
+* hrst klÃ­ÄkÅ¯ z ÄernÃ© ÄoÄky
+* hrst hrachovÃ½ch klÃ­ÄkÅ¯ nebo munga
+* hrst klÃ­ÄkÅ¯ sluneÄnice
+* hrst klÃ­ÄkÅ¯ pÅ¡enice
+* hrst pohankovÃ½ch klÃ­ÄkÅ¯
 * 1 okurka
-* 3 rajèata
-* 1 1 lutá paprika
-* pár listù lichoøeøišnice (nebo jarní cibulka)
-* praená sluneènicová semínka
-* diugas (nebo parmazán)
-* sùl
-* pepø
+* 3 rajÄata
+* 1 1 Å¾lutÃ¡ paprika
+* pÃ¡r listÅ¯ lichoÅ™eÅ™iÅ¡nice (nebo jarnÃ­ cibulka)
+* praÅ¾enÃ¡ sluneÄnicovÃ¡ semÃ­nka
+* dÅ¾iugas (nebo parmazÃ¡n)
+* sÅ¯l
+* pepÅ™
 
-###  Postup pøípravy
+###  Postup pÅ™Ã­pravy
 
-1. Vykoštìná krùtí stehna prosolíme, navrstvíme do malé zapékací misky a proloíme sušenımi rajèaty, zakryjeme poklicí a peèeme na 170°C zhruba hodinu a pùl.
-2. Zakysanou smetanu smícháme s olivovım olejem, hoøèicí a èesnekem. 
-3. zeleninu nakrájíme na menší kousky, lichoøeøišnici na tenké pásky. Pøidáme klíèky, sùl, pepø dle chuti a dresink ze zakysané smetany. Vše promícháme.
-4. na talíø nabereme porci salátu, posypeme trochou praenıch sluneènicovıch semínek, pøidáme trhané krùtí maso a zasypeme diugasem.
+1. VykoÅ¡tÄ›nÃ¡ krÅ¯tÃ­ stehna prosolÃ­me, navrstvÃ­me do malÃ© zapÃ©kacÃ­ misky a proloÅ¾Ã­me suÅ¡enÃ½mi rajÄaty, zakryjeme poklicÃ­ a peÄeme na 170Â°C zhruba hodinu a pÅ¯l.
+2. Zakysanou smetanu smÃ­chÃ¡me s olivovÃ½m olejem, hoÅ™ÄicÃ­ a Äesnekem. 
+3. zeleninu nakrÃ¡jÃ­me na menÅ¡Ã­ kousky, lichoÅ™eÅ™iÅ¡nici na tenkÃ© pÃ¡sky. PÅ™idÃ¡me klÃ­Äky, sÅ¯l, pepÅ™ dle chuti a dresink ze zakysanÃ© smetany. VÅ¡e promÃ­chÃ¡me.
+4. na talÃ­Å™ nabereme porci salÃ¡tu, posypeme trochou praÅ¾enÃ½ch sluneÄnicovÃ½ch semÃ­nek, pÅ™idÃ¡me trhanÃ© krÅ¯tÃ­ maso a zasypeme dÅ¾iugasem.
 
-Dobrou chu :-)
+Dobrou chuÅ¥ :-)
 
-_Autor: Marie Lucká_
+_Autor: Marie LuckÃ¡_
 
 ---
 
