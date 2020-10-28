@@ -19,7 +19,8 @@
 2. Pøidáme nadrobno nakrájenou cibuli, papriku, hoøèici, èili a natøenı èesnek a loutky.
 3. Vše promícháme a podáváme na opeèeném, oèesnekovaném chlebu s dobøe vychlazenım pivem.
 
-Pøeji dobrou chu. Konzumaci nedoporuèuji pøed dùleitou schùzkou, pokud tedy není online :-)  
+Pøeji dobrou chu. Konzumaci nedoporuèuji pøed dùleitou schùzkou, pokud tedy není online :-) 
+ 
 _Autor: Jan Pøibyslavskı_
 
 ---
@@ -43,6 +44,7 @@ Sır nastrouhejte najemno.
 V míse smíchejte mrkev, èesnek, sır a majonézu, mìla by vám vzniknout velmi pøíjemná pomazánka. Klidnì ji mùete pouít tak, jak je, natøít na bílé peèivo a hned podávat. My ji ale ještì o level pozvedneme!
 Natøete ji na plátky toustového chleba, pìknì peèlivì a do krajù. Ty pak vyskládejte na plech vyloenı papírem na peèení, vlote do vyhøáté trouby a peète 10-15 minut, a pomazánka trochu zezlátne a sır se rozpustí.
 Podávejte okamitì, šance na to, e tuhle manu ubráníte pøed okolím, jsou stejnì velmi mizivé. :-) P.S. Vynikající je i alternativa, kdy se pouije místo mrkve syrová èervená øepa a místo èesneku vlašské oøechy. 
+
 _Autorka: Jana Zíková_ (+ její milovaná Kuchaøka pro dceru)
 
 ---
@@ -64,6 +66,7 @@ Mísu vylote potravinovou fólií. Jahody oèistìte a nakrájejte na plátky nebo na 
 Do pøipravené mísy naskládejte vrstvu dìtskıch piškotù, spodní stranou smìrem k míse. Pøekryjte trochou smetanového krému a kousky èerstvıch jahod. Takto pokraèujte dál - vrstvìte piškoty, krém a jahody, a spotøebujete všechny suroviny. Skonèit byste mìli piškoty nebo krémem, ale ne jahodami.
 Uhlaïte povrch a nechte dùkladnì zatuhnout v lednici do druhého dne.
 Mùj oblíbenı jednoduchı dort od Florentıny (https://www.kucharkaprodceru.cz/ - jak vidím po git pullu, stejnì jako Janèa :D) :)
+
 _Autor: Alexandra Jelínková_
 
 ---
@@ -85,6 +88,7 @@ Do mísy vrstvíme nakrájenı pórek, strouhanı sır, kukuøici, ananas, strouhanı cel
 Necháme pøes noc uleet.
 Druhı den vše promícháme a podáváme na opeèeném chlebu, bagetì nebo i samotné.
 Pøeji dobrou chu.
+
 _Autor: Hana Kudlièková_
 
 ---
@@ -107,6 +111,7 @@ meruòky èi jiné ovoce
 ### Postup pøípravy
 
 Do mísy dejte oba tvarohy, pøidejte vajce a mléko a dobøe rozmíchejte. Poté pøidejte mouèkovı i vanilkovı cukr, rozpuštìné máslo, dìtskou krupièku a balíèek vanilkového pudinku (ten nevaøte, zkrátka jen nasypejte prášek). Dortovou formu (cca 24 cm) dobøe vymate máslem a vysypejte krupièkou. Poté nalijte tvarohové tìsto a na závìr nahoru vyskládejte ovoce. Peète v horkovzdušné troubì pøedehøáté na 150°C pøiblinì pùl hodiny, a poté ještì dalších cca 15 minut na 180°C, dokud nebude povrch zlatavı. 
+
 _Autorka: Nikol K._(od mamavkuchyni.cz :-) )
 
 ---
@@ -126,6 +131,7 @@ _Autorka: Nikol K._(od mamavkuchyni.cz :-) )
 
 Všechno jen vypracujete do hmoty, podle potøeby pøidáte další cukr.
 Vdycky dìlám tak 1 a pùl dávky na velikost normální dortové formy (26 cm). Záleí podle velikosti, ale radìji ví­c ne míò :-)
+
 _Autor: Kateøina Rajmanová_
 
 ---
@@ -162,6 +168,7 @@ _Autor: Kateøina Rajmanová_
 4. na talíø nabereme porci salátu, posypeme trochou praenıch sluneènicovıch semínek, pøidáme trhané krùtí maso a zasypeme diugasem.
 
 Dobrou chu :-)
+
 _Autor: Marie Lucká_
 
 ---
