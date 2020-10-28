@@ -43,7 +43,8 @@ _Autor: Jan Přibyslavský_
 4. Sýr nastrouhejte najemno.
 5. V míse smíchejte mrkev, česnek, sýr a majonézu, měla by vám vzniknout velmi příjemná pomazánka. Klidně ji můžete použít tak, jak je, natřít na bílé pečivo a hned podávat. My ji ale ještě o level pozvedneme!
 6. Natřete ji na plátky toustového chleba, pěkně pečlivě až do krajů. Ty pak vyskládejte na plech vyložený papírem na pečení, vložte do vyhřáté trouby a pečte 10-15 minut, až pomazánka trochu zezlátne a sýr se rozpustí.
-7. Podávejte okamžitě, šance na to, že tuhle manu ubráníte před okolím, jsou stejně velmi mizivé. :-) P.S. Vynikající je i alternativa, kdy se použije místo mrkve syrová červená řepa a místo česneku vlašské ořechy. 
+
+Podávejte okamžitě, šance na to, že tuhle manu ubráníte před okolím, jsou stejně velmi mizivé. :-) P.S. Vynikající je i alternativa, kdy se použije místo mrkve syrová červená řepa a místo česneku vlašské ořechy. 
 
 _Autorka: Jana Zíková_ (+ její milovaná Kuchařka pro dceru)
 
@@ -59,13 +60,14 @@ _Autorka: Jana Zíková_ (+ její milovaná Kuchařka pro dceru)
 * 1 velký balíček kulatých dětských piškotů (240 g)
 * 800-1000 g čerstvých, měkkých a plně vyzrálých jahod
 
-###Postup přípravy
+### Postup přípravy
 
 1. Mísu vyložte potravinovou fólií. Jahody očistěte a nakrájejte na plátky nebo na čtvrtky.
 2. Šlehačku vyšlehejte do polotuha a oslaďte cukrem. Potom ji metličkou smíchejte se zakysanou smetanou.
 3. Do připravené mísy naskládejte vrstvu dětských piškotů, spodní stranou směrem k míse. Překryjte trochou smetanového krému a kousky čerstvých jahod. Takto pokračujte dál - vrstvěte piškoty, krém a jahody, až spotřebujete všechny suroviny. Skončit byste měli piškoty nebo krémem, ale ne jahodami.
 4. Uhlaďte povrch a nechte důkladně zatuhnout v lednici do druhého dne.
-5. Můj oblíbený jednoduchý dort od Florentýny (https://www.kucharkaprodceru.cz/ - jak vidím po git pullu, stejně jako Janča :D) :)
+
+Můj oblíbený jednoduchý dort od Florentýny (https://www.kucharkaprodceru.cz/ - jak vidím po git pullu, stejně jako Janča :D) :)
 
 _Autor: Alexandra Jelínková_
 
@@ -87,6 +89,7 @@ _Autor: Alexandra Jelínková_
 1. Do mísy vrstvíme nakrájený pórek, strouhaný sýr, kukuřici, ananas, strouhaný celer i s nálevem a nakonec majonézu.
 2. Necháme přes noc uležet.
 3. Druhý den vše promícháme a podáváme na opečeném chlebu, bagetě nebo i samotné.
+
 Přeji dobrou chuť.
 
 _Autor: Hana Kudličková_
