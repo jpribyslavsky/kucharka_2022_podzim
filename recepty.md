@@ -1,23 +1,57 @@
-ï»¿# GIT kuchaÅ™ka kurzu DA testovÃ¡nÃ­
+# GIT kuchaøka kurzu DA testování
 
-## TatarÃ¡k z olomouckÃ½ch tvarÅ¯Å¾kÅ¯
+## Tatarák z olomouckıch tvarùkù
 
 ### Suroviny
 
-* 200 g olomouckÃ½ch tvarÅ¯Å¾kÅ¯
-* 1 vÄ›tÅ¡Ã­ cibule
-* 100 g mÃ¡sla
-* 1 lÅ¾iÄka hoÅ™Äice
-* 1 strouÅ¾ek Äesneku
-* 1 lÅ¾iÄka sladkÃ© papriky
-* 1 lÅ¾iÄka chilli (nemusÃ­ bÃ½t)
-* 2 syrovÃ© Å¾loutky
+* 200 g olomouckıch tvarùkù
+* 1 vìtší cibule
+* 100 g másla
+* 1 lièka hoøèice
+* 1 strouek èesneku
+* 1 lièka sladké papriky
+* 1 lièka chilli (nemusí bıt)
+* 2 syrové loutky
 
-### Postup pÅ™Ã­pravy
-1. MÃ¡slo utÅ™eme s nastrouhanÃ½mi tvarÅ¯Å¾ky do pÄ›ny.
-2. PÅ™idÃ¡me nadrobno nakrÃ¡jenou cibuli, papriku, hoÅ™Äici, Äili a natÅ™enÃ½ Äesnek a Å¾loutky.
-3. VÅ¡e promÃ­chÃ¡me a podÃ¡vÃ¡me na opeÄenÃ©m, oÄesnekovanÃ©m chlebu s dobÅ™e vychlazenÃ½m pivem.
+### Postup pøípravy
+1. Máslo utøeme s nastrouhanımi tvarùky do pìny.
+2. Pøidáme nadrobno nakrájenou cibuli, papriku, hoøèici, èili a natøenı èesnek a loutky.
+3. Vše promícháme a podáváme na opeèeném, oèesnekovaném chlebu s dobøe vychlazenım pivem.
 
-PÅ™eji dobrou chuÅ¥. Konzumaci nedoporuÄuji pÅ™ed dÅ¯leÅ¾itou schÅ¯zkou, pokud tedy nenÃ­ online :-)  
-_Autor: Jan PÅ™ibyslavskÃ½_
+Pøeji dobrou chu. Konzumaci nedoporuèuji pøed dùleitou schùzkou, pokud tedy není online :-)  
+_Autor: Jan Pøibyslavskı_
 
+
+##  Salát z klíèù s trhanım krùtím masem
+
+###  Suroviny
+
+* 3 vykoštìná krùtí stehna
+* 2 hrsti sušenıch rajèat
+* 1 zakysaná smetana
+* 1 PL extra panenského olivového oleje
+* líce hoøèice
+* èesnek
+* hrst klíèkù z èerné èoèky
+* hrst hrachovıch klíèkù nebo munga
+* hrst klíèkù sluneènice
+* hrst klíèkù pšenice
+* hrst pohankovıch klíèkù
+* 1 okurka
+* 3 rajèata
+* 1 1 lutá paprika
+* pár listù lichoøeøišnice (nebo jarní cibulka)
+* praená sluneènicová semínka
+* diugas (nebo parmazán)
+* sùl
+* pepø
+
+###  Postup pøípravy
+
+1. Vykoštìná krùtí stehna prosolíme, navrstvíme do malé zapékací misky a proloíme sušenımi rajèaty, zakryjeme poklicí a peèeme na 170°C zhruba hodinu a pùl.
+2. Zakysanou smetanu smícháme s olivovım olejem, hoøèicí a èesnekem. 
+3. zeleninu nakrájíme na menší kousky, lichoøeøišnici na tenké pásky. Pøidáme klíèky, sùl, pepø dle chuti a dresink ze zakysané smetany. Vše promícháme.
+4. na talíø nabereme porci salátu, posypeme trochou praenıch sluneènicovıch semínek, pøidáme trhané krùtí maso a zasypeme diugasem.
+
+Dobrou chu :-)
+_Autor: Marie Lucká_
