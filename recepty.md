@@ -14,6 +14,7 @@
 * 2 syrové loutky
 
 ### Postup pøípravy
+
 1. Máslo utøeme s nastrouhanımi tvarùky do pìny.
 2. Pøidáme nadrobno nakrájenou cibuli, papriku, hoøèici, èili a natøenı èesnek a loutky.
 3. Vše promícháme a podáváme na opeèeném, oèesnekovaném chlebu s dobøe vychlazenım pivem.
@@ -23,106 +24,107 @@ _Autor: Jan Pøibyslavskı_
 
 ---
 
-## ZapeÄenÃ¡ pomÃ¡zanka s mrkvÃ­
+## Zapeèená pomázanka s mrkví
 
 ### Suroviny
 
-* 12 plÃ¡tkÅ¯ bÃ­lÃ©ho toustovÃ©ho chleba
-* 2 mrkve (200 g v neoÄiÅ¡tÄ›nÃ©m stavu, 150 g po oÄiÅ¡tÄ›nÃ­)
-* 150 g vaÅ¡eho oblÃ­benÃ©ho tvrdÃ©ho sÃ½ra
-* 150 g majonÃ©zy
-* 1-2 strouÅ¾ky Äesneku
+12 plátkù bílého toustového chleba
+2 mrkve (200 g v neoèištìném stavu, 150 g po oèištìní)
+150 g vašeho oblíbeného tvrdého sıra
+150 g majonézy
+1-2 strouky èesneku
 
-### Postup pÅ™Ã­pravy
-1. ZaÄnÄ›te pÅ™edehÅ™Ã­vat troubu na 180 stupÅˆÅ¯.
-2. Mrkve oloupejte, oÄistÄ›te a nastrouhejte na jemnÃ©m struhadle. (Ano, pomÄ›r vÅ¡eho tedy je 1:1:1, to se hodÃ­ vÄ›Ä›t pro pÅ™Ã­Å¡tÄ›, aÅ¾ budete mnoÅ¾stvÃ­ minimÃ¡lnÄ› zdvojovat :D )
-3. ÄŒesnek oloupejte a prolisujte.
-4. SÃ½r nastrouhejte najemno.
-5. V mÃ­se smÃ­chejte mrkev, Äesnek, sÃ½r a majonÃ©zu, mÄ›la by vÃ¡m vzniknout velmi pÅ™Ã­jemnÃ¡ pomazÃ¡nka. KlidnÄ› ji mÅ¯Å¾ete pouÅ¾Ã­t tak, jak je, natÅ™Ã­t na bÃ­lÃ© peÄivo a hned podÃ¡vat. My ji ale jeÅ¡tÄ› o level pozvedneme!
-6. NatÅ™ete ji na plÃ¡tky toustovÃ©ho chleba, pÄ›knÄ› peÄlivÄ› aÅ¾ do krajÅ¯. Ty pak vysklÃ¡dejte na plech vyloÅ¾enÃ½ papÃ­rem na peÄenÃ­, vloÅ¾te do vyhÅ™Ã¡tÃ© trouby a peÄte 10-15 minut, aÅ¾ pomazÃ¡nka trochu zezlÃ¡tne a sÃ½r se rozpustÃ­.
+### Postup pøípravy
 
-PodÃ¡vejte okamÅ¾itÄ›, Å¡ance na to, Å¾e tuhle manu ubrÃ¡nÃ­te pÅ™ed okolÃ­m, jsou stejnÄ› velmi mizivÃ©. :-) P.S. VynikajÃ­cÃ­ je i alternativa, kdy se pouÅ¾ije mÃ­sto mrkve syrovÃ¡ ÄervenÃ¡ Å™epa a mÃ­sto Äesneku vlaÅ¡skÃ© oÅ™echy. 
-_Autorka: Jana ZÃ­kovÃ¡ (+ jejÃ­ milovanÃ¡ KuchaÅ™ka pro dceru)_
+Zaènìte pøedehøívat troubu na 180 stupòù.
+Mrkve oloupejte, oèistìte a nastrouhejte na jemném struhadle. (Ano, pomìr všeho tedy je 1:1:1, to se hodí vììt pro pøíštì, a budete mnoství minimálnì zdvojovat :D )
+Èesnek oloupejte a prolisujte.
+Sır nastrouhejte najemno.
+V míse smíchejte mrkev, èesnek, sır a majonézu, mìla by vám vzniknout velmi pøíjemná pomazánka. Klidnì ji mùete pouít tak, jak je, natøít na bílé peèivo a hned podávat. My ji ale ještì o level pozvedneme!
+Natøete ji na plátky toustového chleba, pìknì peèlivì a do krajù. Ty pak vyskládejte na plech vyloenı papírem na peèení, vlote do vyhøáté trouby a peète 10-15 minut, a pomazánka trochu zezlátne a sır se rozpustí.
+Podávejte okamitì, šance na to, e tuhle manu ubráníte pøed okolím, jsou stejnì velmi mizivé. :-) P.S. Vynikající je i alternativa, kdy se pouije místo mrkve syrová èervená øepa a místo èesneku vlašské oøechy. Autorka: Jana Zíková (+ její milovaná Kuchaøka pro dceru)
 
 ---
 
-## NepeÄenÃ½ jahodovÃ½ dort
+## Nepeèenı jahodovı dort
 
 ### Suroviny
 
-* 2 kelÃ­mky dobrÃ© zakysanÃ© smetany  
-* 1 kelÃ­mek smetany ke Å¡lehÃ¡nÃ­  
-* 1-2 lÅ¾Ã­ce cukru mouÄka, pÅ™Ã­padnÄ› vÃ­c podle chuti jahod  
-* 1 velkÃ½ balÃ­Äek kulatÃ½ch dÄ›tskÃ½ch piÅ¡kotÅ¯ (240 g)  
-* 800-1000 g ÄerstvÃ½ch, mÄ›kkÃ½ch a plnÄ› vyzrÃ¡lÃ½ch jahod  
+2 kelímky dobré zakysané smetany
+1 kelímek smetany ke šlehání
+1-2 líce cukru mouèka, pøípadnì víc podle chuti jahod
+1 velkı balíèek kulatıch dìtskıch piškotù (240 g)
+800-1000 g èerstvıch, mìkkıch a plnì vyzrálıch jahod
 
-### Postup pÅ™Ã­pravy
-1. MÃ­su vyloÅ¾te potravinovou fÃ³liÃ­. Jahody oÄistÄ›te a nakrÃ¡jejte na plÃ¡tky nebo na Ätvrtky.    
-2. Å lehaÄku vyÅ¡lehejte do polotuha a oslaÄte cukrem. Potom ji metliÄkou smÃ­chejte se zakysanou smetanou.  
-3. Do pÅ™ipravenÃ© mÃ­sy nasklÃ¡dejte vrstvu dÄ›tskÃ½ch piÅ¡kotÅ¯, spodnÃ­ stranou smÄ›rem k mÃ­se. PÅ™ekryjte trochou smetanovÃ©ho krÃ©mu a kousky ÄerstvÃ½ch jahod. Takto pokraÄujte dÃ¡l - vrstvÄ›te piÅ¡koty, krÃ©m a jahody, aÅ¾ spotÅ™ebujete vÅ¡echny suroviny. SkonÄit byste mÄ›li piÅ¡koty nebo krÃ©mem, ale ne jahodami.  
-4. UhlaÄte povrch a nechte dÅ¯kladnÄ› zatuhnout v lednici do druhÃ©ho dne.  
+###Postup pøípravy
 
-MÅ¯j oblÃ­benÃ½ jednoduchÃ½ dort od FlorentÃ½ny (https://www.kucharkaprodceru.cz/ - jak vidÃ­m po git pullu, stejnÄ› jako JanÄa :D) :)  
-_Autor: Alexandra JelÃ­nkovÃ¡_
+Mísu vylote potravinovou fólií. Jahody oèistìte a nakrájejte na plátky nebo na ètvrtky.
+Šlehaèku vyšlehejte do polotuha a oslaïte cukrem. Potom ji metlièkou smíchejte se zakysanou smetanou.
+Do pøipravené mísy naskládejte vrstvu dìtskıch piškotù, spodní stranou smìrem k míse. Pøekryjte trochou smetanového krému a kousky èerstvıch jahod. Takto pokraèujte dál - vrstvìte piškoty, krém a jahody, a spotøebujete všechny suroviny. Skonèit byste mìli piškoty nebo krémem, ale ne jahodami.
+Uhlaïte povrch a nechte dùkladnì zatuhnout v lednici do druhého dne.
+Mùj oblíbenı jednoduchı dort od Florentıny (https://www.kucharkaprodceru.cz/ - jak vidím po git pullu, stejnì jako Janèa :D) :)
+Autor: Alexandra Jelínková
 
 ---
 
-## CelerovÃ½ salÃ¡t
+## Celerovı salát
 
 ### Suroviny
 
-* skleniÄka strouhanÃ©ho celeru
-* 1 pÃ³rek
-* malÃ¡ konzerva kukuÅ™ice
-* konzerva ananasu
-* 100g strouhanÃ©ho tvrdÃ©ho sÃ½ru
-* malÃ¡ skleniÄka majonÃ©zy
+sklenièka strouhaného celeru
+1 pórek
+malá konzerva kukuøice
+konzerva ananasu
+100g strouhaného tvrdého sıru
+malá sklenièka majonézy
 
-### Postup pÅ™Ã­pravy
-1. Do mÃ­sy vrstvÃ­me nakrÃ¡jenÃ½ pÃ³rek, strouhanÃ½ sÃ½r, kukuÅ™ici, ananas, strouhanÃ½ celer i s nÃ¡levem a nakonec majonÃ©zu.
-2. NechÃ¡me pÅ™es noc uleÅ¾et.
-3. DruhÃ½ den vÅ¡e promÃ­chÃ¡me a podÃ¡vÃ¡me na opeÄenÃ©m chlebu, bagetÄ› nebo i samotnÃ©.
+### Postup pøípravy
 
-PÅ™eji dobrou chuÅ¥.  
-_Autor: Hana KudliÄkovÃ¡_
+Do mísy vrstvíme nakrájenı pórek, strouhanı sır, kukuøici, ananas, strouhanı celer i s nálevem a nakonec majonézu.
+Necháme pøes noc uleet.
+Druhı den vše promícháme a podáváme na opeèeném chlebu, bagetì nebo i samotné.
+Pøeji dobrou chu.
+Autor: Hana Kudlièková
 
 ---
 
-## Tvarohovo-krupicovÃ½ kolÃ¡Ä  
-
-### Suroviny  
-
-* 1 mÄ›kkÃ½ tvaroh v alobalu
-* 1 tvaroh ve vaniÄce
-* 2 vejce
-* 70g mouÄkovÃ©ho cukru
-* 80g dÄ›tskÃ© krupiÄky + na vysypÃ¡nÃ­ formy
-* 80g mÃ¡sla + na vymazÃ¡nÃ­ formy
-* 100ml mlÃ©ka
-* 1 balÃ­Äek vanilkovÃ©ho pudinku
-* 1 vanilkovÃ½ cukr
-* meruÅˆky Äi jinÃ© ovoce
-
-### Postup pÅ™Ã­pravy  
-
-Do mÃ­sy dejte oba tvarohy, pÅ™idejte vajce a mlÃ©ko a dobÅ™e rozmÃ­chejte. PotÃ© pÅ™idejte mouÄkovÃ½ i vanilkovÃ½ cukr, rozpuÅ¡tÄ›nÃ© mÃ¡slo, dÄ›tskou krupiÄku a balÃ­Äek vanilkovÃ©ho pudinku (ten nevaÅ™te, zkrÃ¡tka jen nasypejte prÃ¡Å¡ek). Dortovou formu (cca 24 cm) dobÅ™e vymaÅ¾te mÃ¡slem a vysypejte krupiÄkou. PotÃ© nalijte tvarohovÃ© tÄ›sto a na zÃ¡vÄ›r nahoru vysklÃ¡dejte ovoce. PeÄte v horkovzduÅ¡nÃ© troubÄ› pÅ™edehÅ™Ã¡tÃ© na 150Â°C pÅ™ibliÅ¾nÄ› pÅ¯l hodiny, a potÃ© jeÅ¡tÄ› dalÅ¡Ã­ch cca 15 minut na 180Â°C, dokud nebude povrch zlatavÃ½.
-_Autorka: Nikol K.(od mamavkuchyni.cz :-) )_  
-
-## PotahovÃ¡ hmota na dorty
+## Tvarohovo-krupicovı koláè
 
 ### Suroviny
 
-* 150g cukr mouÄka
-* 150g polotuÄnÃ© suÅ¡enÃ© mlÃ©ko
-* 2 lÅ¾Ã­ce oleje
-* 2 lÅ¾Ã­ce medu
-* 3 lÅ¾Ã­ce vody
-* MandlovÃ© aroma
+1 mìkkı tvaroh v alobalu
+1 tvaroh ve vanièce
+2 vejce
+70g mouèkového cukru
+80g dìtské krupièky + na vysypání formy
+80g másla + na vymazání formy
+100ml mléka
+1 balíèek vanilkového pudinku
+1 vanilkovı cukr
+meruòky èi jiné ovoce
 
-### Postup pÅ™Ã­pravy
-VÅ¡echno jen vypracujete do hmoty, podle potÅ™eby pÅ™idÃ¡te dalÅ¡Ã­ cukr.
-VÅ¾dycky dÄ›lÃ¡m tak 1 a pÅ¯l dÃ¡vky na velikost normÃ¡lnÃ­ dortovÃ© formy (26 cm). ZÃ¡leÅ¾Ã­ podle velikosti, ale radÄ›ji vÃ­c neÅ¾ mÃ­Åˆ :-)
-_Autor: KateÅ™ina RajmanovÃ¡_
+### Postup pøípravy
+
+Do mísy dejte oba tvarohy, pøidejte vajce a mléko a dobøe rozmíchejte. Poté pøidejte mouèkovı i vanilkovı cukr, rozpuštìné máslo, dìtskou krupièku a balíèek vanilkového pudinku (ten nevaøte, zkrátka jen nasypejte prášek). Dortovou formu (cca 24 cm) dobøe vymate máslem a vysypejte krupièkou. Poté nalijte tvarohové tìsto a na závìr nahoru vyskládejte ovoce. Peète v horkovzdušné troubì pøedehøáté na 150°C pøiblinì pùl hodiny, a poté ještì dalších cca 15 minut na 180°C, dokud nebude povrch zlatavı. Autorka: Nikol K.(od mamavkuchyni.cz :-) )
+
+---
+
+## Potahová hmota na dorty
+
+### Suroviny
+
+* 150g cukr mouèka
+* 150g polotuèného sušeného mléka
+* 2 líce oleje
+* 2 lí­ce medu
+* 3 lí­ce vody
+* Mandlové aroma
+
+### Postup pøí­pravy
+
+Všechno jen vypracujete do hmoty, podle potøeby pøidáte další cukr.
+Vdycky dìlám tak 1 a pùl dávky na velikost normální dortové formy (26 cm). Záleí podle velikosti, ale radìji ví­c ne míò :-)
+_Autor: Kateøina Rajmanová_
 
 ---
 
