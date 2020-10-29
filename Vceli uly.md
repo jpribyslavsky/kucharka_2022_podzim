@@ -1,5 +1,5 @@
 #VČELÍ ÚLY
-##Ingredience (na 48 ks)
+##Ingredience
 
 ###Na základní těstíčko
 
