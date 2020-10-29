@@ -1,6 +1,6 @@
 VČELÍ ÚLY
 
-Na těstíčko
+Na základní těstíčko
 
 150 g povoleného másla
 200 g cukru moučka
