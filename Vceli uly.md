@@ -3,21 +3,12 @@
 
 ###Na základní těstíčko
 
-Na těstíčko
-
-
 150 g povoleného másla
 200 g cukru moučka
 200 g mletých ořechů (vlašských)
 200 g dětských piškotů (rozmixovat) – mohou být i polámané kousky cukroví
 2 lžíce vody
 1 lžíce Tuzemáku
-
-Na krém
-
-50 g povoleného másla
-20 g cukru moučka
-kapka Tuzemáku (dle chuti)
 
 ###Na krém
 
