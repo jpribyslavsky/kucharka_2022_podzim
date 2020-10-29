@@ -206,3 +206,24 @@ _Autor: Marie Lucká_
 
 ---
 
+## Pleněné tortilly 
+
+### Suroviny
+
+* 200g Lučina 
+* 100g baby špenát
+* 100g pažitka
+* 1 hrnek parmezán 
+* Plátkový sýr anebo šunka 
+* Balíček tortill 
+
+### Postup přípravy
+
+1. Všechno spolu rozmixujeme a namažeme na tortillu. 
+2. Na namazanou vrstvu pokládáme plátky sýra, anebo šunky. 
+3. Tortillu zmotáme a necháme odstát v lednici. 
+4. Nakrájíme na kolečka a podáváme.
+
+_Autor: Martina Šmahelová_
+
+---  
