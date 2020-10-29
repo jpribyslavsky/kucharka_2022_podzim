@@ -5,7 +5,7 @@ Na těstíčko
 =======
 <<<<<<<< HEAD:Vceli uly.md
 #VČELÍ ÚLY
-##Ingredience (na 48 ks)
+##Ingredience
 
 ###Na základní těstíčko
 ========
