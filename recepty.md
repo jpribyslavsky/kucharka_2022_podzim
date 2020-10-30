@@ -258,3 +258,32 @@ Jakmile mám těstíčko odpočaté, připravím si misku s moučkovým cukrem. 
 Skladuji v chladu.
 
 _Autor: Cvetelina Šubová_
+
+---
+
+##Vynikající křupavé chia krekry
+
+###Suroviny:
+
+*½ hrnku chia semínek
+*½ hrnku sezamových semínek
+*½ hrnku slunečnicových semínek
+*½ hrnku dýňových semínek
+*Koření dle chuti (sůl, česnek, pepř, oregano nebo rozmarýn…)
+*Hrnek vody
+
+###Postup přípravy
+
+1. Vše dejte do misky, smíchejte a nechte cca 10 minut stát – chia semínka vytvoří gelovou strukturu a vše se krásně spojí. 
+
+2. Mezitím zapněte troubu (nastavte na 160 °C ) a připravte si 2 plechy s papírem na pečení.
+Pokud použijete hrnek o velikosti cca 0,3 l, tak z hmoty uděláte dva pláty o velikosti cca 25 cm x 25 cm (pokud chcete krekry silnější, pak vám vystačí jeden plech).
+
+3. Směs na plech rovnoměrně rozetřete lžící. Jde to snadno, protože hmota není lepivá a hezky drží, i pokud se snažíte udělat opravdu tenké krekry.
+
+4. Placky dejte upéct do trouby. Po 30 minutách plech vyndejte a placky nakrájejte na obdélníčky. Aby krekry byly opravdu křupavé, je dobré je obrátit.
+Potom nechte dalších 30 minut dopéct.
+
+Pak už jen stačí nechat krekry vystydnout a namáčet v oblíbeném dipu.
+
+_Autor: Gabriela Řiháková (Zdroj: https://behejsrdcem.cz/clanky/vynikajici-krupave-chia-krekry/)
