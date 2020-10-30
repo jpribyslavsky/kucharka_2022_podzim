@@ -227,63 +227,56 @@ _Autor: Marie Lucká_
 _Autor: Martina Šmahelová_
 
 ---  
-#VČELÍ ÚLY
 
-150 g povoleného másla
-200 g cukru moučka
-200 g mletých ořechů
-200 g dětských piškotů (rozmixovat) – mohou být i polámané kousky cukroví
-2 lžíce vody
-1 lžíce Tuzemáku
+## VČELÍ ÚLY
 
-###Na krém
+* 150 g povoleného másla
+* 200 g cukru moučka
+* 200 g mletých ořechů
+* 200 g dětských piškotů (rozmixovat) – mohou být i polámané kousky cukroví
+* 2 lžíce vody
+* 1 lžíce Tuzemáku
 
-50 g povoleného másla
-20 g cukru moučka
-1 kapka Tuzemáku (dle chuti)
-1 plná lžička kondenzovaného mléka (Salko) nebo vaječného likéru
+### Na krém
 
-vaječný likér
+* 50 g povoleného másla
+* 20 g cukru moučka
+* 1 kapka Tuzemáku (dle chuti)
+* 1 plná lžička kondenzovaného mléka (Salko) nebo vaječného likéru
+* vaječný likér
+* na podstavu – linecká kolečka nebo dětské piškoty
+* cukr moučka na vysypávání formičky
 
-na podstavu – linecká kolečka nebo dětské piškoty
+### Postup
 
-cukr moučka na vysypávání formičky
-
-###Postup
-
-Ze všech ingrediencí (na těstíčko) vypracuji těsto. Minimálně půl hodiny ho nechám odpočinout v lednici.
-Povolené máslo vyšlehám s cukrem, přidám Tuzemák a plnou lžičku kondenzovaného mléka (případně vaječného likéru).
-
-Jakmile mám těstíčko odpočaté, připravím si misku s moučkovým cukrem. Formičku na úly vysypávám cukrem a plním trochou těsta, vařečkou udělám doprostřed důlek, naliji trochu vaječného likéru, potřu připraveným krémem a vyklopím na linecké kolečko nebo piškot.
-Skladuji v chladu.
+1. Ze všech ingrediencí (na těstíčko) vypracuji těsto. Minimálně půl hodiny ho nechám odpočinout v lednici.
+2. Povolené máslo vyšlehám s cukrem, přidám Tuzemák a plnou lžičku kondenzovaného mléka (případně vaječného likéru).
+3. Jakmile mám těstíčko odpočaté, připravím si misku s moučkovým cukrem. Formičku na úly vysypávám cukrem a plním trochou těsta, vařečkou udělám doprostřed důlek, naliji trochu vaječného likéru, potřu připraveným krémem a vyklopím na linecké kolečko nebo piškot.
+4. Skladuji v chladu.
 
 _Autor: Cvetelina Šubová_
 
 ---
 
-##Vynikající křupavé chia krekry
+## Vynikající křupavé chia krekry
 
-###Suroviny:
+### Suroviny:
 
-*½ hrnku chia semínek
-*½ hrnku sezamových semínek
-*½ hrnku slunečnicových semínek
-*½ hrnku dýňových semínek
-*Koření dle chuti (sůl, česnek, pepř, oregano nebo rozmarýn…)
-*Hrnek vody
+* ½ hrnku chia semínek
+* ½ hrnku sezamových semínek
+* ½ hrnku slunečnicových semínek
+* ½ hrnku dýňových semínek
+* Koření dle chuti (sůl, česnek, pepř, oregano nebo rozmarýn…)
+* Hrnek vody
 
-###Postup přípravy
+### Postup přípravy
 
 1. Vše dejte do misky, smíchejte a nechte cca 10 minut stát – chia semínka vytvoří gelovou strukturu a vše se krásně spojí. 
-
 2. Mezitím zapněte troubu (nastavte na 160 °C ) a připravte si 2 plechy s papírem na pečení.
 Pokud použijete hrnek o velikosti cca 0,3 l, tak z hmoty uděláte dva pláty o velikosti cca 25 cm x 25 cm (pokud chcete krekry silnější, pak vám vystačí jeden plech).
-
 3. Směs na plech rovnoměrně rozetřete lžící. Jde to snadno, protože hmota není lepivá a hezky drží, i pokud se snažíte udělat opravdu tenké krekry.
-
 4. Placky dejte upéct do trouby. Po 30 minutách plech vyndejte a placky nakrájejte na obdélníčky. Aby krekry byly opravdu křupavé, je dobré je obrátit.
-Potom nechte dalších 30 minut dopéct.
-
-Pak už jen stačí nechat krekry vystydnout a namáčet v oblíbeném dipu.
+5. Potom nechte dalších 30 minut dopéct.
+6. Pak už jen stačí nechat krekry vystydnout a namáčet v oblíbeném dipu.
 
 _Autor: Gabriela Řiháková (Zdroj: https://behejsrdcem.cz/clanky/vynikajici-krupave-chia-krekry/)
