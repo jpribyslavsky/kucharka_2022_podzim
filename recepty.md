@@ -306,3 +306,31 @@ Dobrou chuť :)
 _Autor: Tereza Tomanová_
 
 ---
+
+## Perníková buchta
+
+### Suroviny
+
+* 2 hrnky mléka
+* 1 hrnek hladké mouky
+* 2 hrnky polohrubé mouky
+* 2 hrnky cukru
+* 2 hrnky řepkového nebo slunečnicového oleje
+* 2 vejce
+* 1/2 prášku do pečiva
+* čokoládový pudink
+* 1 až 2 lžíce holandského kakaa
+* perníkové koření podle chuti
+
+### Postup přípravy
+
+1. Smícháme mouku, cukr, pudink (prášek, ne uvařený :)), perníkové koření, prášek do pečiva a kakao.
+2. Přilijeme mléko a olej a pořádně promícháme.
+3. Přidáme vajíčka a opět promícháme, aby bylo těsto hezky hladké.
+4. Pečeme v předehřáté troubě na 180 °C.
+5. Při podávání můžeme posypat moučkovým cukrem.
+
+_Autor: Jana Mášová (zdroj moje babička)_
+
+---
+
