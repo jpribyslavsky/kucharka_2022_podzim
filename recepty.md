@@ -281,3 +281,28 @@ Pokud použijete hrnek o velikosti cca 0,3 l, tak z hmoty uděláte dva pláty o
 
 _Autor: Gabriela Řiháková (Zdroj: https://behejsrdcem.cz/clanky/vynikajici-krupave-chia-krekry/)
 
+---
+
+## Rychlá buchta s kokosem
+
+### Suroviny
+
+* 1 hrnek cukru krystal
+* 2 vajíčka
+* 1 vanilkový cukr
+* 2 hrnky hladké mouky
+* 1 prášek do pečiva
+* 1 hrnek mléka
+
+### Postup přípravy
+
+1. Cukr krystal, vajíčka a vanilkový cukr vyšleháme dohromady.
+2. Postupně přidáme hladkou mouku smíchanou s práškem do pečiva a mléko.
+3. Takto připravené těsto vylijeme na plech a posypeme kokosem.
+4. Pečeme v předehřáté troubě na 180°C přibližně 25 minut.
+
+Dobrou chuť :)
+ 
+_Autor: Tereza Tomanová_
+
+---
