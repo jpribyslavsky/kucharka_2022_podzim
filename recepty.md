@@ -334,3 +334,37 @@ _Autor: Jana Mášová (zdroj moje babička)_
 
 ---
 
+---
+---
+
+## Tartara di carne
+
+### Suroviny
+
+* 100 g hovězího zadního masa
+* ½ cibule
+* 1 lžíce capari
+* 1 lžíce dijonské hořčice
+* 1 lžíce rajčatového koncentrátu
+* 1 lžička worcesteru
+* 1 lžička tabasca
+* 1 lžíce majonezy
+* 1 panák koňaku
+* citronová šťáva z ½ citronu
+* 1 žloutek
+* hrst petrželové natě
+* olej extra virgin
+* sůl
+* pepř
+
+### Postup přípravy
+
+1. Namleté maso smícháme s cibulkou nakrájenou na jemno
+2. Přidáme nasekané capari, dijonskou hořčici, rajčatový koncentrát, worcester, majonezu a tabasco. 
+3. Vše dobře promícháme a přidáme koňak, citronovou šťávu, nasekanou petrželku a žloutek. 
+4. Dochutíme solí a pepřem, zakápneme olivovým olejem.
+5. Ozdobíme capari a podáváme s bagetkou.
+
+_Autor: Petra Hadac (tradicni vecere, kdyz dojede bracha na navstevu)
+
+---  
