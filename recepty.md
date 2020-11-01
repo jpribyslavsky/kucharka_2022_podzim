@@ -362,6 +362,6 @@ _Autor: Jana Mášová (zdroj moje babička)_
 4. Dochutíme solí a pepřem, zakápneme olivovým olejem.
 5. Ozdobíme capari a podáváme s bagetkou.
 
-_Autor: Petra Hadac (tradicni vecere, kdyz dojede bracha na navstevu)
+_Autor: Petra Hadac (tradicni vecere, kdyz dojede bracha na navstevu)_
 
 ---  
