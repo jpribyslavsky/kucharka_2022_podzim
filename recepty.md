@@ -334,9 +334,6 @@ _Autor: Jana Mášová (zdroj moje babička)_
 
 ---
 
----
----
-
 ## Tartara di carne
 
 ### Suroviny
