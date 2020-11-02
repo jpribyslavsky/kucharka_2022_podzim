@@ -281,3 +281,4 @@ Pokud použijete hrnek o velikosti cca 0,3 l, tak z hmoty uděláte dva pláty o
 
 _Autor: Gabriela Řiháková (Zdroj: https://behejsrdcem.cz/clanky/vynikajici-krupave-chia-krekry/)
 
+Palačinky s cukrem a citronem  
