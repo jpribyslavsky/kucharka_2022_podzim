@@ -1,23 +1,37 @@
-﻿# GIT kuchařka kurzu DA testováníí
+﻿# GIT kuchařka kurzu DA testování
 
-## Tatarák z olomouckých tvarůžků
+## Mrkvový dort
 
 ### Suroviny
 
-* 200 g olomouckých tvarůžků
-* 1 větší cibule
-* 100 g másla
-* 1 lžička hořčice
-* 1 stroužek česneku
-* 1 lžička sladké papriky
-* 1 lžička chilli (nemusí být)
-* 2 syrové žloutky
+* 500 g mrkve
+* 200 g vlašských ořechů
+* 250 g polohrubé mouky
+* 2 lžičky jedlé sody
+* 2 lžíce skořice
+* 300 g hnědého cukru
+* 4 vejce
+* 250 ml rostlinného oleje
+* 100 g hrozinek
+
+### Na krém
+
+* 200 g lučiny
+* 120 g práškového cukru
+* 80 g másla a něco na vymazání plechu
+* 1 sáček vanilkového cukru
+
+### Na ozdobu - volitelně
+
+* nastrouhaná kůra z 1 limety
+* alternativně i vlašská jádra (nemusí být)
 
 ### Postup přípravy
-1. Máslo utřeme s nastrouhanými tvarůžky do pěny.
-2. Přidáme nadrobno nakrájenou cibuli, papriku, hořčici, čili a natřený česnek a žloutky.
-3. Vše promícháme a podáváme na opečeném, očesnekovaném chlebu s dobře vychlazeným pivem.
+1. Mrkev očistěte a nastrouhejte na jemném struhadle. Ořechy nasekejte nožem na drobné kousky. Mouku smíchejte se sodou, skořicí a cukrem.
+2. Troubu předehřejte na 180 stupňů. Větší a hlubší pekáč (o rozměru cca 20x35 cm) vymažte máslem a následně vyložte pečícím papírem - snadno k nádobě přilne.
+3. Vejce rozklepněte do misky a ručním elektrickým šlhačem je ušlehejte do pěny. Pak do nich po částech zašlehejte olej. Přidejte mrkev, hrozinky a ořechy a nakonec postupně po částech i moučnou směs. Promíchejte. Vzniklé těsto vyklopte a rozetřete na plech. Pečte v předehřáté troubě 40-50 minut, nebo dokud není suché zkušební párátko zapíchnuté do těsta. 
+4. Přísady na krém dobře promíchejte a potřete jím vychladlý moučník. Povrch můžete postrouhat předem dobře omytou a osušenou limetkovou kůrou (nebo ořechy). Podávejte nakrájené na čtverce.
 
-Přeji dobrou chuť. Konzumaci nedoporučuji před důležitou schůzkou, pokud tedy není online :-)  
-_Autor: Jan Přibyslavský_
+Toto je nejoblíbenější recept ever naší Vendulky. Pečeme ho pravidelně na její narozeniny, nic jiného nechce. A v dortové formě vypadá taky báječně. A navíc se můžete tvářit, že to je vlastně zdravé :-)  
+_Autor: Helena Foltýnková (podle knihy Recepty z farmářského trhu I. díl- Hana Michopulu_
 
