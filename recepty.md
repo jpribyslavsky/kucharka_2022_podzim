@@ -281,4 +281,28 @@ Pokud použijete hrnek o velikosti cca 0,3 l, tak z hmoty uděláte dva pláty o
 
 _Autor: Gabriela Řiháková (Zdroj: https://behejsrdcem.cz/clanky/vynikajici-krupave-chia-krekry/)
 
-Palačinky s cukrem a citronem  
+---
+
+## Palačinky s cukrem a citronem
+
+### Suroviny:
+
+* 4 větší vejce
+* 550 ml plnotučného mléka
+* 250 g hladké mouky
+* 1 lžíce krupicového cukru
+* špetka soli
+* 60 ml rozpuštěného másla
+* přepuštěné máslo na opékání palačinek
+* moučkový cukr a citron k podávání
+
+### Postup přípravy
+
+1. V robotu nebo ručně metličkou prošlehám nejdřív vejce s mlékem, přisypu mouku, cukr a sůl a znovu prošlehám. Nakonec vmíchám rozpuštěné máslo. Připravené těsto dám do lednice a nechám ho dvě hodiny odpočinout.
+1. Na středním plamenu si rozehřeju nepřilnavou pánev a rozpustím v ní asi lžíci přepuštěného másla. Když ho nemám, použiju klasické máslo. Rozpuštěné máslo si přeliju z pánve do malé mističky a před každou palačinkou si pánev lehce potřu mašlovačkou.
+1. Těsto vyndám z lednice, ještě jednou ho důkladně promíchám. Naliju do pánve jednu naběračku těsta, kroužením ho rozliju po celé pánvi, smažím asi 2–3 minuty, pak palačinku obrátím a smažím ještě minutu z druhé strany. Totéž udělám se zbytkem těsta.  
+1. Hotové palačinky popráším cukrem a pokapu citronovou šťávou.
+
+_Autor: Andrea Prýglová_
+
+---
