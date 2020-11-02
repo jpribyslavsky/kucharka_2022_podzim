@@ -427,3 +427,36 @@ _Autor: Andrea Prýglová_
 
 ---
 
+## Špenátový quiche se žampiony
+
+### Suroviny na korpus
+
+* 250 g hladké mouky
+* 125 g másla
+* 4 lžíce studené vody
+* sůl
+* pepř
+
+### Suroviny na špenátovou směs
+
+* 1 mražený špenát
+* 200 ml mléka
+* 4 vejce
+* 1 větší cibule
+* 250 g žampionů (ideálně čerstvých)
+* 2 stroužky česneku
+* olej na smažení
+* sůl
+* pepř
+* hrst cherry rajčátek na ozdobení
+
+### Postup přípravy
+1. Předem necháme rozmrazit špenát a změknout máslo.
+2. Hladkou mouku osolíme, opepříme, a s máslem vypracujeme v tuhé těsto. Pokud je třeba, přidáme až 4 lžíce studené vody. Pekáček nebo zapékací mísu vyložíme pečícím papírem a těsto do ní natlačíme tak, aby bylo podél okraje cca 2 cm vysoké. Těsto propícháme vidličkou a pečeme max 15 minut na 200 stupňů. 
+3. Čerstvé žampiony oloupeme a nakrájíme na tenké plátky. Na velké pánvi orestujeme cibuli nakrájenou na kostičky a přidáme žampiony. Restujeme, dokud nezměknou. Přimícháme špenát, lehce prohřejeme a odstavíme z ohně.
+4. Do směsi přidáme vajíčka rozmíchaná v mléce a prolisované stroužky česneku. Osolíme, opepříme a vše dobře promícháme.
+5. Směs nalijeme do předpečeného korpusu a opatrně poklademe čtvrtkami cherry rajčátek. Dáme zpět do trouby a pečeme ještě cca 25 minut na 150-180 stupňů, dokud směs zcela neztuhne.
+
+_Autor: Lenka Křivánková_
+
+---
