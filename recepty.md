@@ -1,4 +1,4 @@
-﻿# GIT kuchařka kurzu DA testování
+﻿# GIT kuchařka kurzu DA testováníí
 
 ## Tatarák z olomouckých tvarůžků
 
