@@ -58,7 +58,7 @@ _Autor: Jan Přibyslavský_
 
 Toto je nejoblíbenější recept ever naší Vendulky. Pečeme ho pravidelně na její narozeniny, nic jiného nechce. A v dortové formě vypadá taky báječně. A navíc se můžete tvářit, že to je vlastně zdravé :-)  
 
-_Autor: Helena Foltýnková (podle knihy Recepty z farmářského trhu I. díl od Hany Michopulu_
+_Autor: Helena Foltýnková (podle knihy Recepty z farmářského trhu I. díl od Hany Michopulu)_
 
 ---
 
