@@ -55,3 +55,19 @@ Přeji dobrou chuť.
 _Autor: Vladislava Vodičková_
 
 ---
+
+## Ukazka pridani receptu
+
+### Suroviny
+* 200 g olomouckých tvarůžků
+* 1 větší cibule
+
+
+### Postup přípravy
+1. Máslo utřeme s nastrouhanými tvarůžky do pěny.
+
+Přeji dobrou chuť. Konzumaci nedoporučuji před důležitou schůzkou, pokud tedy není online :-)
+
+_Autor: Jan Přibyslavský_
+
+---
