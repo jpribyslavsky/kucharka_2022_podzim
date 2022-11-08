@@ -55,3 +55,42 @@ Přeji dobrou chuť.
 _Autor: Vladislava Vodičková_
 
 ---
+
+
+## Tatarák z olomouckých tvarůžků
+
+### Suroviny
+* 200 g olomouckých tvarůžků
+* 1 větší cibule
+* 100 g másla
+* 1 lžička hořčice
+* 1 stroužek česneku
+* 1 lžička sladké papriky
+* 1 lžička chilli (nemusí být)
+* 2 syrové žloutky
+
+### Postup přípravy
+1. Máslo utřeme s nastrouhanými tvarůžky do pěny.
+2. Přidáme nadrobno nakrájenou cibuli, papriku, hořčici, čili a natřený česnek a žloutky.
+3. Vše promícháme a podáváme na opečeném, očesnekovaném chlebu s dobře vychlazeným pivem.
+
+Přeji dobrou chuť. Konzumaci nedoporučuji před důležitou schůzkou, pokud tedy není online :-)
+
+_Autor: Jan Přibyslavský_
+
+---
+
+## Zdravé banánové palačinky
+
+### Suroviny
+* 1 zralý banán
+* 2 vejce
+* kokosový olej
+
+### Postup přípravy
+1. Banán a vejce spolu rozmixujeme v mixéru dohladka.
+2. Těsto dávkujeme na rozehřátou (případně trochu olejem vymaštěnou) pánev o velikosti palačinek nebo lívanců a opečeme dozlatova z obou stran.
+
+Přeji dobrou chuť :-)
+
+_Autor: Markéta Kostřicová_
