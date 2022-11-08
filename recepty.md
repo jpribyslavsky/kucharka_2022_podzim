@@ -55,3 +55,20 @@ Přeji dobrou chuť.
 _Autor: Vladislava Vodičková_
 
 ---
+
+## Zdravé banánové palačinky
+
+### Suroviny
+* 1 zralý banán
+* 2 vejce
+* kokosový olej
+
+### Postup přípravy
+1. Banán a vejce spolu rozmixujeme v mixéru dohladka.
+2. Těsto dávkujeme na rozehřátou (případně trochu olejem vymaštěnou) pánev o velikosti palačinek nebo lívanců a opečeme dozlatova z obou stran.
+
+Přeji dobrou chuť :-)
+
+_Autor: Markéta Kostřicová_
+
+---
