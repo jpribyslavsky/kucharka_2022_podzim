@@ -1,26 +1,25 @@
 # GIT kuchařka kurzu DA testování
 
-## Tatarák z olomouckých tvarůžků
+## TVAROHOVÉ JAHODOVÉ KNEDLÍKY
 
 ### Suroviny
-* 200 g olomouckých tvarůžků
-* 1 větší cibule
-* 100 g másla
-* 1 lžička hořčice
-* 1 stroužek česneku
-* 1 lžička sladké papriky
-* 1 lžička chilli (nemusí být)
-* 2 syrové žloutky
+* 250 g	měkkého tvarohu
+* 1	vejce
+* špetka soli
+* 200 g	polohrubé mouky
+*  225 g	másla
+*  20–30	jahod
+*  moučkový cukr
+* 1–2 kelímky zakysané smetany
 
 ### Postup přípravy
-1. Máslo utřeme s nastrouhanými tvarůžky do pěny.
-2. Přidáme nadrobno nakrájenou cibuli, papriku, hořčici, čili a natřený česnek a žloutky. 
-3. Vše promícháme a podáváme na opečeném, očesnekovaném chlebu s dobře vychlazeným pivem.
+1. Měkký tvaroh, vejce, sůl, mouku a 100 g rozpuštěného másla smíchejte a propracujte do hladkého a vláčného těsta. 
+2. Z něj vytvořte váleček a nakrájejte ho na menší špalíčky. 
+3. Každý špalíček prsty roztáhněte, doprostřed dejte jahodu a zabalte kulatý knedlík. 
+4. Vařte ve vroucí osolené vodě 6 minut. 
+2. Podávejte posypané moučkovým cukrem, zalité zbylým máslem a ozdobené zakysanou smetanou.
 
-Přeji dobrou chuť. Konzumaci nedoporučuji před důležitou schůzkou, pokud tedy není online :-)
-
-_Autor: Jan Přibyslavský_
-
+Autor: Martina Brussová
 ---
 
 ## Tradiční valašská kyselica
@@ -55,3 +54,25 @@ Přeji dobrou chuť.
 _Autor: Vladislava Vodičková_
 
 ---
+# GIT kuchařka kurzu DA testování
+
+## Tatarák z olomouckých tvarůžků
+
+### Suroviny
+* 200 g olomouckých tvarůžků
+* 1 větší cibule
+* 100 g másla
+* 1 lžička hořčice
+* 1 stroužek česneku
+* 1 lžička sladké papriky
+* 1 lžička chilli (nemusí být)
+* 2 syrové žloutky
+
+### Postup přípravy
+1. Máslo utřeme s nastrouhanými tvarůžky do pěny.
+2. Přidáme nadrobno nakrájenou cibuli, papriku, hořčici, čili a natřený česnek a žloutky.
+3. Vše promícháme a podáváme na opečeném, očesnekovaném chlebu s dobře vychlazeným pivem.
+
+Přeji dobrou chuť. Konzumaci nedoporučuji před důležitou schůzkou, pokud tedy není online :-)
+
+_Autor: Jan Přibyslavský_
