@@ -56,6 +56,33 @@ _Autor: Vladislava Vodičková_
 
 ---
 
+# GIT kuchařka kurzu DA testování
+
+## Toasty s avokádem a volským okem
+
+### Suroviny (množství podle počtu strávníků)
+* plátky chleba (toastový, klasický, jaký chcete)
+* zralé avokádo
+* citronová šťáva
+* čerstvý koriandr
+* vajíčka 
+* sůl
+
+
+### Postup přípravy
+1. připravíme si volská oka, je dobré je neusmažit úplně, ale tak, aby byl žloutek trošku tekutý.
+2. plátky chleba opečeme nasucho - ideálně v toastovači.
+3. avokádo rozmačkáme, zakápneme citronem.
+4. koriandr nasekáme nadrobno.
+5. na každý plátek chleba naneseme vrstvu avokáda, lehce osolíme, poklademe koriandrovými lístky a nahoru položíme volské oko.
+
+
+Je to hrozně návykové jídlo :-), s čerstvou kávou božská mana :-)
+
+_Autor: Martina Tesařová_
+
+---
+
 ## Zdravé banánové palačinky
 
 ### Suroviny
@@ -72,3 +99,4 @@ Přeji dobrou chuť :-)
 _Autor: Markéta Kostřicová_
 
 ---
+
