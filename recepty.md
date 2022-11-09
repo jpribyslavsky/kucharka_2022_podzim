@@ -56,8 +56,6 @@ _Autor: Vladislava Vodičková_
 
 ---
 
-# GIT kuchařka kurzu DA testování
-
 ## Toasty s avokádem a volským okem
 
 ### Suroviny (množství podle počtu strávníků)
