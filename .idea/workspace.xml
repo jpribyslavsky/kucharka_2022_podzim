@@ -1,7 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="69688e5c-3a46-4fd7-813a-d9d4b9d24fef" name="Changes" comment="Přidání receptu na Tvarohové knedlíky" />
+    <list default="true" id="69688e5c-3a46-4fd7-813a-d9d4b9d24fef" name="Changes" comment="Přidání receptu na Tvarohové knedlíky">
+      <change afterPath="$PROJECT_DIR$/img_2.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/recepty.md" beforeDir="false" afterPath="$PROJECT_DIR$/recepty.md" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -10,7 +13,7 @@
   <component name="Git.Settings">
     <option name="RECENT_BRANCH_BY_REPOSITORY">
       <map>
-        <entry key="$PROJECT_DIR$" value="branch-MartinaBrussova" />
+        <entry key="$PROJECT_DIR$" value="main" />
       </map>
     </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -23,12 +26,13 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "WebServerToolWindowFactoryState": "false"
   }
-}</component>
+}]]></component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
@@ -37,6 +41,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1667849533166</updated>
+      <workItem from="1668116855997" duration="299000" />
     </task>
     <task id="LOCAL-00001" summary="Přidání receptu na Tvarohové knedlíky">
       <created>1667891090656</created>
@@ -47,6 +52,9 @@
     </task>
     <option name="localTasksCounter" value="2" />
     <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
     <option name="TAB_STATES">
@@ -59,7 +67,7 @@
                   <entry key="branch">
                     <value>
                       <list>
-                        <option value="branch-MartinaBrussova" />
+                        <option value="branch-VeronikaOnderkova" />
                       </list>
                     </value>
                   </entry>
