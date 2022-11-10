@@ -99,4 +99,33 @@ Přeji dobrou chuť :-)
 _Autor: Markéta Kostřicová_
 
 ---
+## Panna cotta
 
+### Suroviny
+* 500 ml smetany ke šlehání (33%)
+* 70 g cukru krystal
+* 1 ks - vanilkový lusk
+* 3 plátky želatiny
+* 200 g jahod (100 g malin na ozdobení)
+* 1 lžička medu
+* 1 lžíce limetkové šťávy
+
+
+### Postup přípravy
+1. Plátky želatiny namočte do studené vody, aby změkly a mírně nabobtnaly.
+2. Smetanu, cukr a semínka vanilkového lusku dejte do rendlíku a zahřejte těsně pod bod varu. 
+   Jakmile bude směs ohřátá na požadovanou teplotu, odstavte rendlík z plotny. 
+   Nabobtnalou želatinu vyždímejte a pečlivě rozmíchejte v ohřáté smetaně.
+3. Teď můžete směs nalévat do servírovacích mističek, které pak nejlépe přes noc umístěte do ledničky. 
+   Minimálně však na 4–5 hodin.
+4. Rozmixujte všechny ingredience na ovocný přeliv, kterým pak přelijte ztuhlé panna cotty. 
+   Nakonec vše dozdobte čerstvými jahodami a malinami.
+
+
+U tohoto dezertu je velice důležité nevynechat vanilkový lusk, protože ten mu dodá tu správnou chuť. 
+Navíc lusk zbavený semínek můžete použít na výrobu vlastního vanilkového cukru. 
+Vyškrábaný lusk zavřete do dózy společně s moučkovým cukrem. 
+Cukr bude krásně ovoněný a daleko lepší než kupovaná varianta. 
+
+
+_Autor: Veronika Onderková_
