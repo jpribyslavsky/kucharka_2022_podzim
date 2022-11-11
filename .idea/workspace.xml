@@ -1,10 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="69688e5c-3a46-4fd7-813a-d9d4b9d24fef" name="Changes" comment="Přidání receptu na Tvarohové knedlíky">
-      <change afterPath="$PROJECT_DIR$/img_2.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/recepty.md" beforeDir="false" afterPath="$PROJECT_DIR$/recepty.md" afterDir="false" />
-    </list>
+    <list default="true" id="69688e5c-3a46-4fd7-813a-d9d4b9d24fef" name="Changes" comment="Přidání receptu Cmunda po kaplicku&#10;&#10;Suroviny&#10;500 g brambor&#10;100 –120 g hrubé mouky&#10;3 stroužky česneku&#10;120 ml horkého mléka&#10;2 vejce&#10;sůl&#10;pepř&#10;majoránka&#10;300 g uzeného masa&#10;olej na smažení&#10;&#10;Postup přípravy&#10;&#10;Syrové brambory oloupeme a nastrouháme.&#10;Přidáme horké mléko, rozetřený česnek, vejce, sůl, pepř, rozemnutou majoránku a vše smícháme.&#10;Uzené maso nakrájíme na plátky asi 0,5 cm silné.&#10;Na pánvi rozehřejeme trochu oleje, lžící klademe bramborové těsto, na něj položíme plátek masa a znovu bramborové těsto.&#10;Smažíme zvolna po obou stranách.&#10;Podáváme s dušeným zelím." />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -17,6 +14,14 @@
       </map>
     </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GithubPullRequestsUISettings">
+    <option name="selectedUrlAndAccountId">
+      <UrlAndAccount>
+        <option name="accountId" value="5dfa837e-ffad-436f-83b7-646fca62df66" />
+        <option name="url" value="https://github.com/jpribyslavsky/kucharka_2022_podzim" />
+      </UrlAndAccount>
+    </option>
   </component>
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
@@ -51,7 +56,14 @@
       <option name="project" value="LOCAL" />
       <updated>1667891090656</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="Přidání receptu Cmunda po kaplicku&#10;&#10;Suroviny&#10;500 g brambor&#10;100 –120 g hrubé mouky&#10;3 stroužky česneku&#10;120 ml horkého mléka&#10;2 vejce&#10;sůl&#10;pepř&#10;majoránka&#10;300 g uzeného masa&#10;olej na smažení&#10;&#10;Postup přípravy&#10;&#10;Syrové brambory oloupeme a nastrouháme.&#10;Přidáme horké mléko, rozetřený česnek, vejce, sůl, pepř, rozemnutou majoránku a vše smícháme.&#10;Uzené maso nakrájíme na plátky asi 0,5 cm silné.&#10;Na pánvi rozehřejeme trochu oleje, lžící klademe bramborové těsto, na něj položíme plátek masa a znovu bramborové těsto.&#10;Smažíme zvolna po obou stranách.&#10;Podáváme s dušeným zelím.">
+      <created>1668202754243</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1668202754244</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -82,6 +94,7 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Přidání receptu na Tvarohové knedlíky" />
-    <option name="LAST_COMMIT_MESSAGE" value="Přidání receptu na Tvarohové knedlíky" />
+    <MESSAGE value="Přidání receptu Cmunda po kaplicku&#10;&#10;Suroviny&#10;500 g brambor&#10;100 –120 g hrubé mouky&#10;3 stroužky česneku&#10;120 ml horkého mléka&#10;2 vejce&#10;sůl&#10;pepř&#10;majoránka&#10;300 g uzeného masa&#10;olej na smažení&#10;&#10;Postup přípravy&#10;&#10;Syrové brambory oloupeme a nastrouháme.&#10;Přidáme horké mléko, rozetřený česnek, vejce, sůl, pepř, rozemnutou majoránku a vše smícháme.&#10;Uzené maso nakrájíme na plátky asi 0,5 cm silné.&#10;Na pánvi rozehřejeme trochu oleje, lžící klademe bramborové těsto, na něj položíme plátek masa a znovu bramborové těsto.&#10;Smažíme zvolna po obou stranách.&#10;Podáváme s dušeným zelím." />
+    <option name="LAST_COMMIT_MESSAGE" value="Přidání receptu Cmunda po kaplicku&#10;&#10;Suroviny&#10;500 g brambor&#10;100 –120 g hrubé mouky&#10;3 stroužky česneku&#10;120 ml horkého mléka&#10;2 vejce&#10;sůl&#10;pepř&#10;majoránka&#10;300 g uzeného masa&#10;olej na smažení&#10;&#10;Postup přípravy&#10;&#10;Syrové brambory oloupeme a nastrouháme.&#10;Přidáme horké mléko, rozetřený česnek, vejce, sůl, pepř, rozemnutou majoránku a vše smícháme.&#10;Uzené maso nakrájíme na plátky asi 0,5 cm silné.&#10;Na pánvi rozehřejeme trochu oleje, lžící klademe bramborové těsto, na něj položíme plátek masa a znovu bramborové těsto.&#10;Smažíme zvolna po obou stranách.&#10;Podáváme s dušeným zelím." />
   </component>
 </project>
