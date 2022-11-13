@@ -56,3 +56,28 @@ _Autor: Vladislava Vodičková_
 
 
 ---
+**Cmunda po kaplicku**
+
+## Suroviny
+
+500 g brambor
+100 –120 g hrubé mouky
+3 stroužky česneku
+120 ml horkého mléka
+2 vejce
+sůl
+pepř
+majoránka
+300 g uzeného masa
+olej na smažení
+
+## Postup přípravy
+
+* Syrové brambory oloupeme a nastrouháme.
+* Přidáme horké mléko, rozetřený česnek, vejce, sůl, pepř, rozemnutou majoránku a vše smícháme.
+* Uzené maso nakrájíme na plátky asi 0,5 cm silné.
+* Na pánvi rozehřejeme trochu oleje, lžící klademe bramborové těsto, na něj položíme plátek masa a znovu bramborové těsto.
+* Smažíme zvolna po obou stranách.
+* Podáváme s dušeným zelím.
+
+DOBROU CHUŤ

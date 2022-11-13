@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="69688e5c-3a46-4fd7-813a-d9d4b9d24fef" name="Changes" comment="Přidání receptu na Tvarohové knedlíky">
-      <change afterPath="$PROJECT_DIR$/img_2.png" afterDir="false" />
+    <list default="true" id="360e19c8-89c5-4901-8771-b5a72097e7a6" name="Changes" comment="Přidání receptu na Tvarohové knedlíky">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/recepty.md" beforeDir="false" afterPath="$PROJECT_DIR$/recepty.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -68,7 +68,7 @@
                   <entry key="branch">
                     <value>
                       <list>
-                        <option value="branch-VeronikaOnderkova" />
+                        <option value="branch-Klara_Wesselsova" />
                       </list>
                     </value>
                   </entry>
