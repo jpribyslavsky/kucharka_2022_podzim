@@ -55,3 +55,30 @@ Přeji dobrou chuť.
 _Autor: Vladislava Vodičková_
 
 ---
+
+## Cuketové lasagne
+
+### Suroviny
+* 200 g suchých lasagní
+* 400 g mladých cuket
+* 250 g ricotty
+* 250 ml
+* smetany na vaření
+* 100 g sýru feta
+* 1 lžička soli
+* 2 lžičky sušeného oregana
+* 1 lžíce olivového oleje
+* 200 g mozzarelly
+
+### Postup přípravy
+1. Zapékací nádobu (cca 20 x 30cm) vymažte olejem
+2. Cukety důkladně umyjte, odřízněte jim stopku a pak podélně nakrájejte na co nejtenčí plátky - nejlíp to jde na mandolíně
+3. Ricottu rozmíchejte se smetanou, solí a oreganem. 
+4. Do pekáčku narovnejte první vrstvu cukety - jednotlivé plátky klaďte částečně přes sebe. Zalijte částí (asi pětinou) ricottové směsi, posypte trochou rozdrobené fety a na tento základ rozložte jednu vrstvu těstovin
+5. Totéž opakujte ještě asi čtyřikrát. Do poslední vrstvy už nedávejte těstoviny
+6. Pekáček zakryjte alobalem a pečte cca 30 min v troubě předem vyhřáté na 220 °C
+7. Poté odkryjte, poklaďte plátky mozzarelly a pečte ještě 5-10 minut, dokud se sýr nerozpustí a zčásti nezezlátně
+Dobrou chuť :)
+
+_Autor: Kristýna Zichová_
+
